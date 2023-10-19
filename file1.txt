@@ -1,0 +1,1 @@
+Added text to file1.txt to resolve merge conflicts in future.
